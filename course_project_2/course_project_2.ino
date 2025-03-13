@@ -14,7 +14,7 @@ bool fallDetected = false;
 bool smsSent = false;  // Kiểm soát gửi SMS
 
 // Số điện thoại nhận tin nhắn
-const String phoneNumber = "+84xxxxxxxxx";  // Thay số điện thoại nhận SMS
+const String phoneNumber = "+84559865843";  // Thay số điện thoại nhận SMS
 
 void setup() {
     Serial.begin(115200);
