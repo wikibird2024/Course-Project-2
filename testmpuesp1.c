@@ -40,3 +40,7 @@ void app_main() {
         vTaskDelay(100 / portTICK_PERIOD_MS); // Delay for 100ms
     }
 }
+
+idf.py set-target esp32
+
+idf.py menuconfig
